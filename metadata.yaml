@@ -1,0 +1,26 @@
+_repo: The-Black-Border-b-Gullah-Stories-of-the-Carolina-Coast_71432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gonzalez, Ambrose Elliott
+    gutenberg_agent_id: '56228'
+    url: http://www.gutenberg.org/2009/agents/56228
+description: ''
+gutenberg_issued: '2023-08-18'
+identifiers:
+  gutenberg: '71432'
+language: en
+pgterms:marc904: https://archive.org/details/blackbordergulla00gonz/page/n3/mode/2up
+pgterms:marc905: 20220416072611gonzalez
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Krista Zaleski and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aColumbia :$bThe State Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Black Border : $b Gullah Stories of the Carolina Coast'
+url: http://www.gutenberg.org/ebooks/71432

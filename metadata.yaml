@@ -1,11 +1,16 @@
 _repo: The-Black-Border-b-Gullah-Stories-of-the-Carolina-Coast_71432
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71432-h/images/cover.jpg
 creator:
   author:
     agent_name: Gonzalez, Ambrose Elliott
     gutenberg_agent_id: '56228'
     url: http://www.gutenberg.org/2009/agents/56228
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71432#The-Black-Border-b-Gullah-Stories-of-the-Carolina-Coast
 gutenberg_issued: '2023-08-18'
 identifiers:
   gutenberg: '71432'
